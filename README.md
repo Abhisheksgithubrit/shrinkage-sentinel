@@ -149,7 +149,7 @@ The supplied guidelines call for runnable code, a public GitHub repository, tran
 | Requirement | Project status |
 |---|---|
 | Runnable code and verification steps | Documented above; starter tests and API smoke checks have passed in this environment. |
-| Public GitHub repository | To be completed by publishing this project to the requested GitHub account. |
+| Public GitHub repository | Published at [github.com/Abhisheksgithubrit/shrinkage-sentinel](https://github.com/Abhisheksgithubrit/shrinkage-sentinel). |
 | Prompt history and AI-use disclosure | This section records the prompts available in the current continuation session. The earlier Cursor prompt history was not present in the workspace; export and append it before treating the prompt-history requirement as complete. |
 | Reasoning, assumptions, tests, and limitations | Described above, including the distinction between an alert and a theft finding and the limitations of pattern-level evaluation. |
 
