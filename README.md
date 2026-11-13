@@ -15,8 +15,6 @@ This project gives an operator a way to:
 3. Open an alert and inspect its source evidence and related inventory activity.
 4. Compare planted challenge scenarios with held-out labels without feeding those labels to the detector.
 
-## Explain it in an interview
-
 ### Short explanation
 
 > “I built a small inventory-shrinkage investigation workflow. It generates reproducible synthetic retail operations data, reconstructs expected stock from an append-only movement ledger, and applies explainable rules to identify suspicious discrepancies and process exceptions. A FastAPI service exposes the data and evidence to a dashboard. I validate the generated data and evaluate planted challenge patterns against separate held-out labels. The rules help prioritize investigation; they do not claim that every discrepancy is theft.”
