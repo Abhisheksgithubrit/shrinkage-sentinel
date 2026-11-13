@@ -125,6 +125,32 @@ The responsive dashboard includes:
 
 The FastAPI application is in `app/main.py`; the static interface is in `web/`. Interactive API documentation is available at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) while the app is running.
 
+### Interview demo: commands and walkthrough
+
+Use the **starter** dataset for a live demo. Open PowerShell in the cloned project folder and run:
+
+```powershell
+py -3.11 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python -m shrinkage_sentinel --scale starter --seed 20261022 --out data/starter
+python -m uvicorn app.main:app --host 127.0.0.1 --port 8000
+```
+
+Keep that terminal open while the server is running. If PowerShell blocks virtual-environment activation, run `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` in that terminal, activate the environment, and continue. Open `http://127.0.0.1:8000` in a browser.
+
+The app uses **generated synthetic records**; there is no form for manually entering a store, SKU, movement, or count. The seed and scale are the inputs to data generation. To show the generator producing a fresh starter dataset, open **Data lab**, keep `starter` selected, and press **Generate dataset**. It uses the default seed and writes the generated data to the project’s `data/starter` directory. Avoid the `full` option in a short demo; it is much larger and is not needed to show the workflow.
+
+Suggested walkthrough:
+
+1. **Overview:** Explain the movement and count KPIs, the stock-equation pass rate, and the alert breakdown.
+2. **Alerts:** Open an alert and point out its rule, score, source evidence, and related count or movement. Alert IDs vary if the seed or generated dataset changes.
+3. **Stock ledger:** Replay a store/SKU pair, such as `STORE-000001` and `SKU-000001`. Explain that each signed movement changes on-hand and the expected count is derived from movements up to the snapshot.
+4. **Exceptions:** Show a wrong-store movement or adjustment without a reason. These are data-quality or process signals, not proof of theft.
+5. **Evaluation:** Show the planted patterns caught and explain that the metrics are pattern-level proxies, not production model accuracy.
+
+Optional: in a second PowerShell terminal, activate the same environment and run `python -m pytest -q` to show the automated checks. The API can also be explored at `http://127.0.0.1:8000/docs`.
+
 ## Project map
 
 | Path | Purpose |
