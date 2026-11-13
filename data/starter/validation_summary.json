@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "passed": {
+    "pk_store": true,
+    "pk_sku": true,
+    "pk_movement": true,
+    "pk_count": true,
+    "pk_alert": true,
+    "id_store_format": true,
+    "id_sku_format": true,
+    "id_movement_format": true,
+    "id_count_format": true,
+    "fk_movement_store": true,
+    "fk_movement_sku": true,
+    "fk_count_store": true,
+    "fk_count_sku": true,
+    "fk_movement_shift": true,
+    "opening_non_negative": true,
+    "count_variance_derived": true,
+    "stock_equation_sample": true,
+    "movement_enums": true,
+    "shift_date_order": true,
+    "gt_not_in_features": true,
+    "edge_cases_present": true
+  },
+  "failed": {},
+  "errors": [],
+  "warnings": [],
+  "n_checks": 21,
+  "n_passed": 21
+}

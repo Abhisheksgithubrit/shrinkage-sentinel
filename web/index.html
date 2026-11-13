@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shrinkage Sentinel · Inventory Loss Detection</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="mark">S</div>
+        <div>
+          <strong>Shrinkage Sentinel</strong>
+          <span>YottaFlex · Round 2</span>
+        </div>
+      </div>
+      <nav>
+        <a href="#/dashboard" data-route="dashboard">Overview</a>
+        <a href="#/alerts" data-route="alerts">Alerts</a>
+        <a href="#/investigations" data-route="investigations">Investigations</a>
+        <a href="#/counts" data-route="counts">Cycle counts</a>
+        <a href="#/movements" data-route="movements">Movements</a>
+        <a href="#/stores" data-route="stores">Stores & SKUs</a>
+        <a href="#/exceptions" data-route="exceptions">Exceptions</a>
+        <a href="#/ledger" data-route="ledger">Stock ledger</a>
+        <a href="#/evaluation" data-route="evaluation">Evaluation</a>
+        <a href="#/data" data-route="data">Data lab</a>
+      </nav>
+      <p class="sidebar-note">Synthetic retail data. Decisions stay explainable.</p>
+    </aside>
+    <main>
+      <header class="topbar">
+        <button class="menu" id="menuBtn" aria-label="Open menu">☰</button>
+        <div>
+          <h1 id="pageTitle">Overview</h1>
+          <p class="muted" id="pageSub">Detect unusual inventory loss across receipts, sales, transfers, adjustments, returns and counts.</p>
+        </div>
+        <div class="pills">
+          <span class="pill" id="healthPill">dataset…</span>
+        </div>
+      </header>
+      <section id="view" class="view"></section>
+    </main>
+  </div>
+  <script src="/assets/app.js"></script>
+</body>
+</html>

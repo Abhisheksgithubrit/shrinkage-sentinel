@@ -1,0 +1,1722 @@
+entity_type,entity_id,issue_type,expected_decision,notes,seed
+inventory_movement,MOV-2026-00000289,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000291,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000303,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000308,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000310,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000313,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000319,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000322,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000327,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000354,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000355,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000356,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000358,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000361,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000363,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000365,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000371,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000383,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000403,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000424,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000425,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000432,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000435,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000441,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000447,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000454,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000460,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000463,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000466,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000472,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000473,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000475,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000485,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000486,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000493,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000498,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000501,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000518,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000532,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000557,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000566,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000568,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000578,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000590,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000601,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000603,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000604,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000608,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000610,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000611,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000631,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000632,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000633,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000634,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000639,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000653,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000657,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000660,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000661,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000667,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000681,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000708,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000710,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000719,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000742,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000748,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000759,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000761,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000767,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000768,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000779,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000791,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000810,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000812,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000826,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000831,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000833,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000844,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000864,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000869,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000875,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000879,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000889,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000901,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000913,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000922,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000928,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000933,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000950,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000969,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000981,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00000989,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001008,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001017,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001025,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001034,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001036,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001052,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001065,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001079,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001095,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001109,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001110,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001123,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001124,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001153,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001164,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001165,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001183,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001198,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001199,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001203,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001207,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001214,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001217,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001225,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001226,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001232,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001233,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001236,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001238,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001240,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001243,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001261,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001270,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001298,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001327,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001356,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001357,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001362,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001371,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001392,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001399,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001407,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001426,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001431,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001433,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001440,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001478,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001485,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001494,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001495,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001503,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001534,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001545,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001554,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001562,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001582,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001596,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001627,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001634,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001646,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001652,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001654,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001686,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001688,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001692,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001695,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001702,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001715,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001724,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001740,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001754,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001787,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001799,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001803,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001812,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001823,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001824,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001829,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001832,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001842,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001854,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001871,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001893,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001898,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001910,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001913,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001929,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001934,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001936,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001947,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001957,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001968,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001975,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001988,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00001993,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002008,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002034,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002039,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002051,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002060,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002072,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002089,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002092,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002105,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002109,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002124,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002127,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002128,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002138,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002149,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002161,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002162,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002169,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002173,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002179,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002181,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002183,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002189,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002197,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002211,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002216,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002228,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002267,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002279,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002287,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002312,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002322,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002333,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002334,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002337,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002342,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002343,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002346,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002359,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002364,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002365,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002379,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002381,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002386,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002415,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002432,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002438,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002439,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002443,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002444,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002472,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002482,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002487,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002489,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002494,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002514,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002516,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002524,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002525,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002533,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002541,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002546,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002549,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002550,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002551,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002569,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002576,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002588,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002594,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002599,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002613,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002616,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002617,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002624,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002625,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002634,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002645,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002649,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002652,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002653,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002657,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002660,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002671,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002692,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002705,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002709,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002726,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002744,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002761,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002784,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002785,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002789,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002806,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002824,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002835,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002848,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002858,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002864,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002869,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002894,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002910,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002911,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002912,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002913,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002929,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002934,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002936,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002937,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002940,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002945,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002950,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002954,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002956,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002958,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002959,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002961,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002969,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002979,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002985,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00002995,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003000,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003001,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003007,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003014,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003020,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003030,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003059,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003069,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003077,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003110,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003128,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003131,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003135,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003144,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003154,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003159,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003164,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003193,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003194,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003195,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003203,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003204,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003215,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003217,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003218,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003276,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003278,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003287,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003292,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003300,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003317,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003318,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003320,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003330,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003343,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003345,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003349,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003350,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003357,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003361,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003373,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003395,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003403,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003407,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003410,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003412,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003417,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003420,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003436,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003439,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003444,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003445,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003446,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003448,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003454,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003460,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003462,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003463,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003464,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003479,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003480,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003505,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003506,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003518,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003519,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003523,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003524,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003526,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003528,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003529,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003530,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003534,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003547,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003560,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003565,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003572,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003588,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003590,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003594,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003601,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003607,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003624,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003625,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003627,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003628,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003650,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003663,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003664,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003682,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003693,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003702,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003727,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003730,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003751,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003752,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003766,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003769,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003774,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003781,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003784,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003785,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003787,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003799,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003808,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003811,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003835,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003843,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003850,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003853,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003854,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003868,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003871,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003872,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003883,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003887,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003897,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003900,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003920,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003921,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003924,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003928,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003935,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003939,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003942,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003956,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003982,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003990,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00003999,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004003,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004015,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004039,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004044,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004046,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004058,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004064,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004069,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004086,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004092,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004100,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004108,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004114,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004130,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004131,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004137,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004161,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004163,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004171,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004173,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004183,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004201,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004234,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004241,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004255,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004256,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004261,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004290,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004300,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004305,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004307,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004315,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004320,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004321,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004326,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004328,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004331,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004345,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004356,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004366,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004376,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004378,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004383,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004397,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004406,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004408,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004421,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004441,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004450,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004452,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004463,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004477,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004482,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004498,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004507,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004510,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004518,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004535,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004539,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004573,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004579,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004582,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004586,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004591,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004601,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004621,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004639,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004655,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004658,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004661,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004710,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004729,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004733,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004743,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004755,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004758,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004762,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004773,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004786,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004792,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004797,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004811,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004812,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004827,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004831,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004835,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004836,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004846,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004849,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004852,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004861,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004866,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004870,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004877,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004881,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004884,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004909,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004916,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004917,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004943,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004949,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004955,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004977,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00004989,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005002,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005007,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005015,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005025,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005028,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005029,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005034,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005047,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005094,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005103,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005113,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005121,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005144,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005149,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005151,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005152,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005154,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005156,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005158,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005168,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005172,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005177,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005191,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005203,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005215,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005226,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005271,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005272,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005281,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005286,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005288,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005299,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005313,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005316,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005318,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005330,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005337,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005342,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005344,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005352,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005366,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005367,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005379,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005408,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005413,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005425,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005429,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005440,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005451,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005452,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005466,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005474,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005484,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005486,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005500,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005504,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005509,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005515,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005516,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005519,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005522,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005527,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005543,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005560,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005562,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005565,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005570,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005571,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005602,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005604,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005611,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005620,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005626,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005628,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005631,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005638,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005641,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005644,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005650,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005671,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005687,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005688,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005692,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005695,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005697,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005711,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005714,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005744,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005747,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005754,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005755,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005763,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005764,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005769,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005773,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005787,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005810,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005820,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005825,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005836,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005838,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005840,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005842,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005857,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005870,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005881,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005891,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005892,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005895,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005901,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005908,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005915,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005924,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005926,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005933,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005953,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005985,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005986,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00005996,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006019,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006035,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006041,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006045,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006054,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006058,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006061,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006065,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006069,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006084,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006098,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006106,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006114,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006123,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006135,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006137,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006138,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006148,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006158,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006165,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006179,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006180,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006183,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006188,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006193,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006194,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006202,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006220,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006223,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006230,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006231,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006232,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006253,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006254,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006260,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006266,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006272,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006277,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006282,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006289,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006290,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006293,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006294,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006295,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006302,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006313,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006317,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006322,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006323,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006326,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006351,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006362,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006375,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006377,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006380,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006387,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006389,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006390,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006391,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006393,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006409,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006425,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006457,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006458,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006461,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006476,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006477,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006479,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006483,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006484,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006489,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006500,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006502,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006505,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006517,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006518,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006522,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006527,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006529,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006534,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006535,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006537,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006539,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006549,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006564,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006583,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006584,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006588,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006603,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006604,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006605,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006612,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006613,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006636,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006640,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006645,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006653,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006654,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006655,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006657,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006665,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006668,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006670,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006671,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006683,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006712,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006717,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006722,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006731,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006735,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006742,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006754,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006768,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006816,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006825,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006852,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006853,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006855,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006868,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006873,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006874,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006877,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006882,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006883,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006894,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006907,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006920,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006925,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006926,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006935,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00006972,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007005,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007007,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007017,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007026,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007039,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007047,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007055,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007058,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007070,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007071,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007073,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007079,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007081,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007092,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007095,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007097,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007101,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007102,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007106,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007110,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007112,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007118,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007127,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007140,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007143,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007145,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007147,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007148,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007160,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007197,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007210,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007216,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007232,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007235,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007247,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007259,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007270,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007271,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007274,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007278,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007284,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007300,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007320,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007321,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007327,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007334,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007335,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007339,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007343,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007367,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007382,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007401,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007416,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007431,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007459,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007479,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007483,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007493,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007509,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007521,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007523,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007530,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007545,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007547,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007552,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007554,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007559,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007564,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007579,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007588,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007589,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007614,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007617,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007618,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007634,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007635,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007643,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007654,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007661,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007664,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007665,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007666,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007675,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007693,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007703,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007708,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007712,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007716,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007726,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007730,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007731,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007736,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007738,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007741,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007745,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007751,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007752,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007773,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007782,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007800,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007815,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007817,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007833,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007852,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007877,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007884,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007888,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007892,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007893,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007894,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007896,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007904,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007914,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007932,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007942,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007965,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007975,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007978,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00007993,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008001,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008011,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008014,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008015,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008018,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008020,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008028,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008040,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008050,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008054,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008071,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008073,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008078,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008087,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008100,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008102,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008117,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008118,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008134,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008141,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008146,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008158,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008174,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008178,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008203,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008213,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008221,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008222,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008234,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008244,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008255,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008272,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008275,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008276,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008279,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008287,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008297,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008304,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008305,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008314,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008323,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008328,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008372,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008381,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008387,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008389,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008398,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008400,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008401,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008426,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008441,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008442,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008448,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008450,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008453,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008454,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008511,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008512,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008518,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008519,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008520,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008523,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008533,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008534,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008537,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008580,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008593,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008594,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008595,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008599,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008601,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008607,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008615,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008628,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008636,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008637,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008651,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008652,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008662,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008693,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008695,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008696,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008720,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008727,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008741,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008743,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008748,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008762,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008764,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008769,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008777,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008791,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008796,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008809,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008829,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008830,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008835,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008853,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008856,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008857,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008862,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008903,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008911,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008923,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008929,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008930,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008947,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008956,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008958,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008960,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008984,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00008985,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009006,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009015,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009034,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009058,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009062,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009086,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009092,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009116,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009122,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009125,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009128,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009129,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009131,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009133,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009141,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009153,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009154,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009163,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009173,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009174,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009198,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009200,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009201,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009208,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009210,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009241,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009242,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009250,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009257,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009258,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009266,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009279,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009283,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009286,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009313,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009319,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009328,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009331,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009336,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009342,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009352,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009353,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009355,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009366,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009388,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009401,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009406,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009421,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009433,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009434,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009440,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009443,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009457,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009465,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009469,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009473,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009502,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009505,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009507,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009510,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009512,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009535,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009541,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009546,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009555,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009564,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009567,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009575,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009592,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009594,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009598,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009605,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009608,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009620,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009624,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009625,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009627,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009632,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009658,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009675,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009676,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009677,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009685,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009701,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009707,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009719,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009728,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009732,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009736,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009738,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009744,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009752,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009758,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009762,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009786,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009789,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009793,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009802,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009809,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009810,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009820,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009825,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009846,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009850,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009855,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009858,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009869,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009881,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009898,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009909,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009915,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009917,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009918,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009933,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009945,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00009990,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010008,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010021,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010032,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010037,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010068,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010074,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010087,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010090,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010100,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010104,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010114,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010132,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010137,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010141,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010157,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010158,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010160,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010163,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010164,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010166,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010168,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010175,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010183,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010204,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010234,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010235,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010240,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010265,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010266,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010289,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010313,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010326,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010328,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010329,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010342,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010379,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010382,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010391,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010400,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010402,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010407,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010414,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010423,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010431,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010446,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010452,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010453,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010463,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010468,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010489,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010491,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010492,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010495,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010507,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010520,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010531,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010532,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010544,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010554,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010564,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010567,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010596,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010619,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010622,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010624,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010636,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010645,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010646,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010651,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010661,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010691,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010720,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010740,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010745,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010750,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010751,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010754,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010775,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010779,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010786,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010792,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010798,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010833,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010838,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010843,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010848,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010854,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010865,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010869,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010874,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010877,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010884,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010888,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010890,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010891,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010907,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010909,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010910,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010930,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010934,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010952,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010959,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010976,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010977,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00010980,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011000,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011011,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011023,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011037,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011042,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011046,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011048,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011051,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011058,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011059,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011061,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011068,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011071,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011086,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011111,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011121,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011125,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011132,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011145,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011157,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011166,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011180,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011181,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011219,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011222,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011225,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011230,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011232,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011241,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011248,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011250,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011257,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011260,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011262,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011263,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011268,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011270,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011279,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011319,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011320,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011323,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011327,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011328,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011329,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011331,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011360,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011364,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011375,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011389,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011403,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011405,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011416,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011425,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011432,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011441,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011450,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011458,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011467,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011503,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011510,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011512,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011527,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011536,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011538,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011548,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011557,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011560,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011565,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011569,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011575,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011579,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011586,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011598,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011605,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011609,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011658,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011666,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011667,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011675,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011676,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011677,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011684,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011721,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011728,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011780,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011781,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011789,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011795,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011797,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011801,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011825,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011832,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011851,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011853,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011862,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011909,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011912,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011916,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011933,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011934,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011938,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011989,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011994,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00011995,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012000,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012011,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012021,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012030,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012041,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012063,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012072,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012092,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012101,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012105,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012125,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012159,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012160,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012162,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012176,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012180,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012186,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012188,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012194,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012197,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012199,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012209,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012214,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012220,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012223,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012237,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012243,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012256,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012280,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012298,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012304,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012345,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012355,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012357,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012369,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012378,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012392,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012395,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012402,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012403,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012408,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012419,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012422,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012431,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012445,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012447,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012448,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012449,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012461,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012465,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012469,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012472,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012477,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012479,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012481,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012488,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012495,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012496,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012517,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012519,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012520,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012548,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012572,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012586,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012587,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012597,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012607,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012611,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012617,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012619,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012621,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012669,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012670,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012674,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012676,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012677,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012682,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012689,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012695,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012716,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012719,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012722,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012727,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012747,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012760,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012764,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012785,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012793,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012817,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012820,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012827,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012833,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012837,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012839,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012845,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012846,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012858,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012860,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012862,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012868,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012870,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012873,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012878,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012908,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012924,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012930,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012931,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012933,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012961,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012970,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012974,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012980,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012981,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00012982,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013005,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013015,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013032,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013063,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013072,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013093,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013097,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013106,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013119,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013130,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013141,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013148,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013157,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013170,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013179,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013183,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013185,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013189,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013192,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013215,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013217,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013218,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013220,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013232,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013233,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013242,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013250,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013257,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013263,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013268,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013279,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013286,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013291,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013296,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013307,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013317,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013325,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013337,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013338,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013349,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013353,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013355,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013356,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013363,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013381,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013386,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013387,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013389,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013392,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013393,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013396,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013407,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013409,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013415,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013416,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013429,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013433,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013436,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013457,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013464,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013469,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013474,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013476,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+inventory_movement,MOV-2026-00013488,legitimate_damage,close_benign,Documented damage/expiry; not theft.,20261022
+sku,SKU-000009,promotion_sales_spike,close_benign,Sales lift during promotion should not be scored as shrinkage.,20261022
+return_event,RET-2026-000001,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000002,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000003,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000004,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000005,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000006,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000007,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000008,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000009,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000010,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000011,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000012,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000013,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000014,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000015,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000016,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000017,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000018,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000019,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000020,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000021,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000022,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000023,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000024,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000025,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000026,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000027,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000028,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000029,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000030,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000031,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000032,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000033,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000034,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000035,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000036,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000037,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000038,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000039,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000040,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000041,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000042,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000043,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000044,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000045,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000046,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000047,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000048,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000049,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000050,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000051,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000052,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000053,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000054,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000055,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000056,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000057,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000058,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000059,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000060,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000061,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000062,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000063,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000064,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000065,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000066,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000067,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000068,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000069,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000070,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000071,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000072,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000073,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000074,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000075,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000076,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000077,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000078,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000079,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000080,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000081,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000082,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000083,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000084,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000085,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000086,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000087,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000088,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000089,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000090,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000091,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000092,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000093,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000094,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000095,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000096,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000097,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000098,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000099,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000100,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000101,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000102,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000103,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000104,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000105,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000106,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000107,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000108,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000109,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000110,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000111,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000112,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000113,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000114,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000115,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000116,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000117,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000118,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000119,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000120,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000121,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000122,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000123,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000124,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000125,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000126,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000127,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000128,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000129,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000130,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000131,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000132,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000133,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000134,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000135,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000136,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000137,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000138,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000139,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000140,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000141,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000142,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000143,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000144,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000145,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000146,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000147,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000148,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000149,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000150,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000151,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000152,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000153,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000154,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000155,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000156,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000157,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000158,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000159,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000160,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000161,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000162,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000163,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000164,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000165,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000166,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000167,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000168,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000169,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000170,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000171,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000172,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000173,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000174,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000175,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000176,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000177,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000178,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000179,legitimate_return,close_benign,Customer return with matching sale.,20261022
+return_event,RET-2026-000180,legitimate_return,close_benign,Customer return with matching sale.,20261022
+cycle_count,CNT-2026-000125,unexplained_loss,open_alert,Physical count short versus ledger without matching damage/return.,20261022
+cycle_count,CNT-2026-000100,unexplained_loss,open_alert,Physical count short versus ledger without matching damage/return.,20261022
+cycle_count,CNT-2026-000178,unexplained_loss,open_alert,Physical count short versus ledger without matching damage/return.,20261022
+cycle_count,CNT-2026-000005,unexplained_loss,open_alert,Physical count short versus ledger without matching damage/return.,20261022
+inventory_movement,MOV-2026-00013884,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013885,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013886,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013887,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013888,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013889,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013890,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013891,repeated_adjustments,open_alert,Repeated negative adjustments on the same store/SKU.,20261022
+inventory_movement,MOV-2026-00013892,adjustment_missing_reason,open_alert,Inventory adjustment posted without a reason code.,20261022
+inventory_movement,MOV-2026-00013893,wrong_store_movement,open_alert,Movement store_id does not match the authorized shift store.,20261022
+cycle_count,CNT-2026-000241,count_before_movements,open_alert,Count CNT-2026-000241 precedes receipt MOV-2026-00013894 but includes those units.,20261022
+cycle_count,CNT-2026-000242,double_counted_transfer,open_alert,Transfer MOV-2026-00013895 treated as shrink at origin store STORE-000001.,20261022
+cycle_count,CNT-2026-000243,double_counted_transfer,open_alert,Transfer MOV-2026-00013895 treated as shrink at destination store STORE-000002.,20261022

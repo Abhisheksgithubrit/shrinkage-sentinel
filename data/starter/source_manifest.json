@@ -1,0 +1,82 @@
+[
+  {
+    "file": "data/starter/csv/store.csv",
+    "rows": 10,
+    "sha256": "ac45fc5347e46a868256b7e9b529e057f1dca231a254f8f3a7457a9b83444efa"
+  },
+  {
+    "file": "data/starter/csv/sku.csv",
+    "rows": 80,
+    "sha256": "d8a17e7e4851453ecd2988eeb77df0d6dac8eae6537cdfde8ae115a63dbc8e64"
+  },
+  {
+    "file": "data/starter/csv/employee_role.csv",
+    "rows": 7,
+    "sha256": "6642ce77b84f10642a306192a6e9fe723f75a153691bbf56c3226af0eb445146"
+  },
+  {
+    "file": "data/starter/csv/employee.csv",
+    "rows": 48,
+    "sha256": "1ff9cea9630ea88b2b1a1e0f2d357a440bfbd2868ed82066d578ee1bbe431250"
+  },
+  {
+    "file": "data/starter/csv/store_sku_assortment.csv",
+    "rows": 280,
+    "sha256": "43a18cd2735f231a323d662dc3f3f6211f523e2c756b30a8ad2c2575e967fc5c"
+  },
+  {
+    "file": "data/starter/csv/shift.csv",
+    "rows": 900,
+    "sha256": "ab2a8dd2523c0a27f1655ea0f03994f18b748f086026d50c7daa959922e5f862"
+  },
+  {
+    "file": "data/starter/csv/promotion.csv",
+    "rows": 12,
+    "sha256": "6921e2f62996b6c106e91bd79252c0435f05d495b7e85a0e33a9253e360e478b"
+  },
+  {
+    "file": "data/starter/csv/promotion_sku.csv",
+    "rows": 48,
+    "sha256": "c0e509520b135bc8bf43914a0e76a15f2ef5a019e80f7247e6439ce9a53f719b"
+  },
+  {
+    "file": "data/starter/csv/promotion_store.csv",
+    "rows": 57,
+    "sha256": "45d2397f39c72c9309b5f7fda6190036522b80503cacdfef10528ba449e01fcb"
+  },
+  {
+    "file": "data/starter/csv/inventory_movement.csv",
+    "rows": 13896,
+    "sha256": "2af3e56147078492cbb7a1945724fa69141db6ded1679a5950d71f0332b1922c"
+  },
+  {
+    "file": "data/starter/csv/return_event.csv",
+    "rows": 180,
+    "sha256": "762aadfbec0a05507af80d1f5a265fb6e57d1d0da2285a019b38ebad4a70ef55"
+  },
+  {
+    "file": "data/starter/csv/cycle_count.csv",
+    "rows": 243,
+    "sha256": "f4c658c25d194141b158216190c4e2e7456ee5e39fc37f3966b9884294567f95"
+  },
+  {
+    "file": "data/starter/csv/balance_event.csv",
+    "rows": 520,
+    "sha256": "966b4f3b80d383f72a79d87c0f01b82eff628f1b5ca0444ea72e3a215faa5a45"
+  },
+  {
+    "file": "data/starter/csv/shrinkage_alert.csv",
+    "rows": 12,
+    "sha256": "df977f4898abe9b6b8323f035b6dd08016cf014fb215898bf674a7c80d7b7732"
+  },
+  {
+    "file": "data/starter/csv/investigation.csv",
+    "rows": 11,
+    "sha256": "6701ae071b81adebf22ae63ca20f224d6cd5b3d8d655b6a6160b641f53529b78"
+  },
+  {
+    "file": "data/starter/csv/investigation_alert.csv",
+    "rows": 11,
+    "sha256": "fdec6f8085637b55cfa057f3dd0cd6efd48115b979d16a0ee14c43f632eda88c"
+  }
+]

@@ -1,0 +1,12 @@
+investigation_id,opened_at,closed_at,owner_role_id,outcome,notes,status
+INV-2026-000001,2026-02-25 00:00:00,,ROLE-000004,pending,Auto-opened from SHR-2026-000001 (adjustment_missing_reason). Evidence retained.,open
+INV-2026-000002,2026-09-30 10:25:48,,ROLE-000004,pending,Auto-opened from SHR-2026-000002 (repeated_adjustments). Evidence retained.,open
+INV-2026-000003,2026-10-05 09:15:30,,ROLE-000004,pending,Auto-opened from SHR-2026-000003 (repeated_adjustments). Evidence retained.,open
+INV-2026-000004,2026-02-02 04:52:23,,ROLE-000004,pending,Auto-opened from SHR-2026-000005 (unexplained_loss). Evidence retained.,open
+INV-2026-000005,2026-03-04 08:52:39,,ROLE-000004,pending,Auto-opened from SHR-2026-000006 (unexplained_loss). Evidence retained.,open
+INV-2026-000006,2026-03-29 10:49:48,,ROLE-000004,pending,Auto-opened from SHR-2026-000007 (unexplained_loss). Evidence retained.,open
+INV-2026-000007,2026-03-23 09:00:00,,ROLE-000004,pending,Auto-opened from SHR-2026-000008 (unexplained_loss). Evidence retained.,open
+INV-2026-000008,2026-03-23 09:00:00,,ROLE-000004,pending,Auto-opened from SHR-2026-000009 (unexplained_loss). Evidence retained.,open
+INV-2026-000009,2026-03-12 08:00:00,,ROLE-000004,pending,Auto-opened from SHR-2026-000010 (count_before_movements). Evidence retained.,open
+INV-2026-000010,2026-03-23 09:00:00,,ROLE-000004,pending,Auto-opened from SHR-2026-000011 (double_counted_transfer). Evidence retained.,open
+INV-2026-000011,2026-03-02 10:00:00,,ROLE-000004,pending,Auto-opened from SHR-2026-000012 (wrong_store_movement). Evidence retained.,open

@@ -1,0 +1,11 @@
+store_id,store_code,name,banner,format,city,state,region,timezone,opened_on,closed_on,status,sq_ft,shrink_risk_tier
+STORE-000001,S0001,Austin Supercenter 001,FlexWarehouse,supercenter,Austin,TX,Southwest,America/Chicago,2024-12-31,,active,18137,medium
+STORE-000002,S0002,Denver Neighborhood 002,HarborGo,neighborhood,Denver,CO,West,America/Chicago,2024-12-30,,active,18274,high
+STORE-000003,S0003,Columbus Warehouse 003,YottaMart,warehouse,Columbus,OH,Midwest,America/Chicago,2024-12-29,,active,18411,low
+STORE-000004,S0004,Atlanta Ecom Fc 004,FlexWarehouse,ecom_fc,Atlanta,GA,Southeast,America/Chicago,2024-12-28,,active,18548,medium
+STORE-000005,S0005,Buffalo Supercenter 005,HarborGo,supercenter,Buffalo,NY,Northeast,America/Chicago,2024-12-27,,active,18685,high
+STORE-000006,S0006,Boise Neighborhood 006,YottaMart,neighborhood,Boise,ID,West,America/Chicago,2024-12-26,,active,18822,low
+STORE-000007,S0007,Tampa Warehouse 007,FlexWarehouse,warehouse,Tampa,FL,Southeast,America/Chicago,2024-12-25,,active,18959,medium
+STORE-000008,S0008,Omaha Ecom Fc 008,HarborGo,ecom_fc,Omaha,NE,Midwest,America/Chicago,2024-12-24,,active,19096,high
+STORE-000009,S0009,Raleigh Supercenter 009,YottaMart,supercenter,Raleigh,NC,Southeast,America/Chicago,2024-12-23,,active,19233,low
+STORE-000010,S0010,Portland Neighborhood 010,FlexWarehouse,neighborhood,Portland,OR,West,America/Chicago,2024-12-22,,active,19370,medium

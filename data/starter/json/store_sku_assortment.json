@@ -1,0 +1,402 @@
+[
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000008",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000009",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000010",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000011",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000012",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000013",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000014",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000015",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000016",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000017",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000018",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000019",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000020",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000021",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000022",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000023",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000024",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000025",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000026",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000027",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000028",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000029",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000030",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000031",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000032",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000033",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000034",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000001",
+    "sku_id": "SKU-000035",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000015",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000016",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000017",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000018",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000019",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000020",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000021",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000022",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000023",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000024",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000025",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000026",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000027",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000028",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000029",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000030",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000031",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000032",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000033",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000034",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000035",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  },
+  {
+    "store_id": "STORE-000002",
+    "sku_id": "SKU-000036",
+    "listed_from": "2025-06-01",
+    "listed_to": null,
+    "min_on_hand": 2,
+    "max_on_hand": 80
+  }
+]

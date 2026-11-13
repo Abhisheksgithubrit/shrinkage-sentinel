@@ -1,0 +1,386 @@
+[
+  {
+    "employee_id": "EMP-000001",
+    "home_store_id": "STORE-000001",
+    "role_id": "ROLE-000001",
+    "display_name": "Jordan Nair",
+    "hire_date": "2025-12-01",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000002",
+    "home_store_id": "STORE-000002",
+    "role_id": "ROLE-000002",
+    "display_name": "Riley Brooks",
+    "hire_date": "2025-11-30",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000003",
+    "home_store_id": "STORE-000003",
+    "role_id": "ROLE-000003",
+    "display_name": "Cameron Vega",
+    "hire_date": "2025-11-29",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000004",
+    "home_store_id": "STORE-000004",
+    "role_id": "ROLE-000004",
+    "display_name": "Quinn Singh",
+    "hire_date": "2025-11-28",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000005",
+    "home_store_id": "STORE-000005",
+    "role_id": "ROLE-000005",
+    "display_name": "Morgan Cole",
+    "hire_date": "2025-11-27",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000006",
+    "home_store_id": "STORE-000006",
+    "role_id": "ROLE-000006",
+    "display_name": "Sage Diaz",
+    "hire_date": "2025-11-26",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000007",
+    "home_store_id": "STORE-000007",
+    "role_id": "ROLE-000007",
+    "display_name": "Reese Shah",
+    "hire_date": "2025-11-25",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000008",
+    "home_store_id": "STORE-000008",
+    "role_id": "ROLE-000001",
+    "display_name": "Drew Nguyen",
+    "hire_date": "2025-11-24",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000009",
+    "home_store_id": "STORE-000009",
+    "role_id": "ROLE-000002",
+    "display_name": "Parker Patel",
+    "hire_date": "2025-11-23",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000010",
+    "home_store_id": "STORE-000010",
+    "role_id": "ROLE-000003",
+    "display_name": "Avery Hale",
+    "hire_date": "2025-11-22",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000011",
+    "home_store_id": "STORE-000001",
+    "role_id": "ROLE-000004",
+    "display_name": "Jordan Nair",
+    "hire_date": "2025-11-21",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000012",
+    "home_store_id": "STORE-000002",
+    "role_id": "ROLE-000005",
+    "display_name": "Riley Brooks",
+    "hire_date": "2025-11-20",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000013",
+    "home_store_id": "STORE-000003",
+    "role_id": "ROLE-000006",
+    "display_name": "Cameron Vega",
+    "hire_date": "2025-11-19",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000014",
+    "home_store_id": "STORE-000004",
+    "role_id": "ROLE-000007",
+    "display_name": "Quinn Singh",
+    "hire_date": "2025-11-18",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000015",
+    "home_store_id": "STORE-000005",
+    "role_id": "ROLE-000001",
+    "display_name": "Morgan Cole",
+    "hire_date": "2025-11-17",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000016",
+    "home_store_id": "STORE-000006",
+    "role_id": "ROLE-000002",
+    "display_name": "Sage Diaz",
+    "hire_date": "2025-11-16",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000017",
+    "home_store_id": "STORE-000007",
+    "role_id": "ROLE-000003",
+    "display_name": "Reese Shah",
+    "hire_date": "2025-11-15",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000018",
+    "home_store_id": "STORE-000008",
+    "role_id": "ROLE-000004",
+    "display_name": "Drew Nguyen",
+    "hire_date": "2025-11-14",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000019",
+    "home_store_id": "STORE-000009",
+    "role_id": "ROLE-000005",
+    "display_name": "Parker Patel",
+    "hire_date": "2025-11-13",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000020",
+    "home_store_id": "STORE-000010",
+    "role_id": "ROLE-000006",
+    "display_name": "Avery Hale",
+    "hire_date": "2025-11-12",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000021",
+    "home_store_id": "STORE-000001",
+    "role_id": "ROLE-000007",
+    "display_name": "Jordan Nair",
+    "hire_date": "2025-11-11",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000022",
+    "home_store_id": "STORE-000002",
+    "role_id": "ROLE-000001",
+    "display_name": "Riley Brooks",
+    "hire_date": "2025-11-10",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000023",
+    "home_store_id": "STORE-000003",
+    "role_id": "ROLE-000002",
+    "display_name": "Cameron Vega",
+    "hire_date": "2025-11-09",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000024",
+    "home_store_id": "STORE-000004",
+    "role_id": "ROLE-000003",
+    "display_name": "Quinn Singh",
+    "hire_date": "2025-11-08",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000025",
+    "home_store_id": "STORE-000005",
+    "role_id": "ROLE-000004",
+    "display_name": "Morgan Cole",
+    "hire_date": "2025-11-07",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000026",
+    "home_store_id": "STORE-000006",
+    "role_id": "ROLE-000005",
+    "display_name": "Sage Diaz",
+    "hire_date": "2025-11-06",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000027",
+    "home_store_id": "STORE-000007",
+    "role_id": "ROLE-000006",
+    "display_name": "Reese Shah",
+    "hire_date": "2025-11-05",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000028",
+    "home_store_id": "STORE-000008",
+    "role_id": "ROLE-000007",
+    "display_name": "Drew Nguyen",
+    "hire_date": "2025-11-04",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000029",
+    "home_store_id": "STORE-000009",
+    "role_id": "ROLE-000001",
+    "display_name": "Parker Patel",
+    "hire_date": "2025-11-03",
+    "status": "leave"
+  },
+  {
+    "employee_id": "EMP-000030",
+    "home_store_id": "STORE-000010",
+    "role_id": "ROLE-000002",
+    "display_name": "Avery Hale",
+    "hire_date": "2025-11-02",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000031",
+    "home_store_id": "STORE-000001",
+    "role_id": "ROLE-000003",
+    "display_name": "Jordan Nair",
+    "hire_date": "2025-11-01",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000032",
+    "home_store_id": "STORE-000002",
+    "role_id": "ROLE-000004",
+    "display_name": "Riley Brooks",
+    "hire_date": "2025-10-31",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000033",
+    "home_store_id": "STORE-000003",
+    "role_id": "ROLE-000005",
+    "display_name": "Cameron Vega",
+    "hire_date": "2025-10-30",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000034",
+    "home_store_id": "STORE-000004",
+    "role_id": "ROLE-000006",
+    "display_name": "Quinn Singh",
+    "hire_date": "2025-10-29",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000035",
+    "home_store_id": "STORE-000005",
+    "role_id": "ROLE-000007",
+    "display_name": "Morgan Cole",
+    "hire_date": "2025-10-28",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000036",
+    "home_store_id": "STORE-000006",
+    "role_id": "ROLE-000001",
+    "display_name": "Sage Diaz",
+    "hire_date": "2025-10-27",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000037",
+    "home_store_id": "STORE-000007",
+    "role_id": "ROLE-000002",
+    "display_name": "Reese Shah",
+    "hire_date": "2025-10-26",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000038",
+    "home_store_id": "STORE-000008",
+    "role_id": "ROLE-000003",
+    "display_name": "Drew Nguyen",
+    "hire_date": "2025-10-25",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000039",
+    "home_store_id": "STORE-000009",
+    "role_id": "ROLE-000004",
+    "display_name": "Parker Patel",
+    "hire_date": "2025-10-24",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000040",
+    "home_store_id": "STORE-000010",
+    "role_id": "ROLE-000005",
+    "display_name": "Avery Hale",
+    "hire_date": "2025-10-23",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000041",
+    "home_store_id": "STORE-000001",
+    "role_id": "ROLE-000006",
+    "display_name": "Jordan Nair",
+    "hire_date": "2025-10-22",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000042",
+    "home_store_id": "STORE-000002",
+    "role_id": "ROLE-000007",
+    "display_name": "Riley Brooks",
+    "hire_date": "2025-10-21",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000043",
+    "home_store_id": "STORE-000003",
+    "role_id": "ROLE-000001",
+    "display_name": "Cameron Vega",
+    "hire_date": "2025-10-20",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000044",
+    "home_store_id": "STORE-000004",
+    "role_id": "ROLE-000002",
+    "display_name": "Quinn Singh",
+    "hire_date": "2025-10-19",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000045",
+    "home_store_id": "STORE-000005",
+    "role_id": "ROLE-000003",
+    "display_name": "Morgan Cole",
+    "hire_date": "2025-10-18",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000046",
+    "home_store_id": "STORE-000006",
+    "role_id": "ROLE-000004",
+    "display_name": "Sage Diaz",
+    "hire_date": "2025-10-17",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000047",
+    "home_store_id": "STORE-000007",
+    "role_id": "ROLE-000005",
+    "display_name": "Reese Shah",
+    "hire_date": "2025-10-16",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-000048",
+    "home_store_id": "STORE-000008",
+    "role_id": "ROLE-000006",
+    "display_name": "Drew Nguyen",
+    "hire_date": "2025-10-15",
+    "status": "active"
+  }
+]

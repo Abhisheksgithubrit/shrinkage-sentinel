@@ -1,0 +1,452 @@
+[
+  {
+    "shift_id": "SHF-2026-000001",
+    "store_id": "STORE-000001",
+    "employee_id": "EMP-000001",
+    "role_id": "ROLE-000001",
+    "started_at": "2026-01-01 06:00:00",
+    "ended_at": "2026-01-01 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000002",
+    "store_id": "STORE-000002",
+    "employee_id": "EMP-000012",
+    "role_id": "ROLE-000005",
+    "started_at": "2026-01-02 14:00:00",
+    "ended_at": "2026-01-02 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000003",
+    "store_id": "STORE-000003",
+    "employee_id": "EMP-000023",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-01-03 22:00:00",
+    "ended_at": "2026-01-04 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000004",
+    "store_id": "STORE-000004",
+    "employee_id": "EMP-000034",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-04 06:00:00",
+    "ended_at": "2026-01-04 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000005",
+    "store_id": "STORE-000005",
+    "employee_id": "EMP-000045",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-01-05 14:00:00",
+    "ended_at": "2026-01-05 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000006",
+    "store_id": "STORE-000006",
+    "employee_id": "EMP-000006",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-06 22:00:00",
+    "ended_at": "2026-01-07 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000007",
+    "store_id": "STORE-000007",
+    "employee_id": "EMP-000017",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-01-07 06:00:00",
+    "ended_at": "2026-01-07 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000008",
+    "store_id": "STORE-000008",
+    "employee_id": "EMP-000028",
+    "role_id": "ROLE-000007",
+    "started_at": "2026-01-08 14:00:00",
+    "ended_at": "2026-01-08 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000009",
+    "store_id": "STORE-000009",
+    "employee_id": "EMP-000009",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-01-09 22:00:00",
+    "ended_at": "2026-01-10 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000010",
+    "store_id": "STORE-000010",
+    "employee_id": "EMP-000020",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-10 06:00:00",
+    "ended_at": "2026-01-10 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000011",
+    "store_id": "STORE-000001",
+    "employee_id": "EMP-000001",
+    "role_id": "ROLE-000001",
+    "started_at": "2026-01-11 14:00:00",
+    "ended_at": "2026-01-11 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000012",
+    "store_id": "STORE-000002",
+    "employee_id": "EMP-000012",
+    "role_id": "ROLE-000005",
+    "started_at": "2026-01-12 22:00:00",
+    "ended_at": "2026-01-13 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000013",
+    "store_id": "STORE-000003",
+    "employee_id": "EMP-000023",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-01-13 06:00:00",
+    "ended_at": "2026-01-13 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000014",
+    "store_id": "STORE-000004",
+    "employee_id": "EMP-000034",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-14 14:00:00",
+    "ended_at": "2026-01-14 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000015",
+    "store_id": "STORE-000005",
+    "employee_id": "EMP-000045",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-01-15 22:00:00",
+    "ended_at": "2026-01-16 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000016",
+    "store_id": "STORE-000006",
+    "employee_id": "EMP-000006",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-16 06:00:00",
+    "ended_at": "2026-01-16 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000017",
+    "store_id": "STORE-000007",
+    "employee_id": "EMP-000017",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-01-17 14:00:00",
+    "ended_at": "2026-01-17 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000018",
+    "store_id": "STORE-000008",
+    "employee_id": "EMP-000028",
+    "role_id": "ROLE-000007",
+    "started_at": "2026-01-18 22:00:00",
+    "ended_at": "2026-01-19 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000019",
+    "store_id": "STORE-000009",
+    "employee_id": "EMP-000029",
+    "role_id": "ROLE-000001",
+    "started_at": "2026-01-19 06:00:00",
+    "ended_at": "2026-01-19 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000020",
+    "store_id": "STORE-000010",
+    "employee_id": "EMP-000040",
+    "role_id": "ROLE-000005",
+    "started_at": "2026-01-20 14:00:00",
+    "ended_at": "2026-01-20 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000021",
+    "store_id": "STORE-000001",
+    "employee_id": "EMP-000001",
+    "role_id": "ROLE-000001",
+    "started_at": "2026-01-21 22:00:00",
+    "ended_at": "2026-01-22 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000022",
+    "store_id": "STORE-000002",
+    "employee_id": "EMP-000012",
+    "role_id": "ROLE-000005",
+    "started_at": "2026-01-22 06:00:00",
+    "ended_at": "2026-01-22 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000023",
+    "store_id": "STORE-000003",
+    "employee_id": "EMP-000023",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-01-23 14:00:00",
+    "ended_at": "2026-01-23 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000024",
+    "store_id": "STORE-000004",
+    "employee_id": "EMP-000034",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-24 22:00:00",
+    "ended_at": "2026-01-25 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000025",
+    "store_id": "STORE-000005",
+    "employee_id": "EMP-000045",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-01-25 06:00:00",
+    "ended_at": "2026-01-25 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000026",
+    "store_id": "STORE-000006",
+    "employee_id": "EMP-000006",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-26 14:00:00",
+    "ended_at": "2026-01-26 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000027",
+    "store_id": "STORE-000007",
+    "employee_id": "EMP-000017",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-01-27 22:00:00",
+    "ended_at": "2026-01-28 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000028",
+    "store_id": "STORE-000008",
+    "employee_id": "EMP-000028",
+    "role_id": "ROLE-000007",
+    "started_at": "2026-01-28 06:00:00",
+    "ended_at": "2026-01-28 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000029",
+    "store_id": "STORE-000009",
+    "employee_id": "EMP-000009",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-01-29 14:00:00",
+    "ended_at": "2026-01-29 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000030",
+    "store_id": "STORE-000010",
+    "employee_id": "EMP-000020",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-01-30 22:00:00",
+    "ended_at": "2026-01-31 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000031",
+    "store_id": "STORE-000001",
+    "employee_id": "EMP-000001",
+    "role_id": "ROLE-000001",
+    "started_at": "2026-01-31 06:00:00",
+    "ended_at": "2026-01-31 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000032",
+    "store_id": "STORE-000002",
+    "employee_id": "EMP-000012",
+    "role_id": "ROLE-000005",
+    "started_at": "2026-02-01 14:00:00",
+    "ended_at": "2026-02-01 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000033",
+    "store_id": "STORE-000003",
+    "employee_id": "EMP-000023",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-02-02 22:00:00",
+    "ended_at": "2026-02-03 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000034",
+    "store_id": "STORE-000004",
+    "employee_id": "EMP-000034",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-02-03 06:00:00",
+    "ended_at": "2026-02-03 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000035",
+    "store_id": "STORE-000005",
+    "employee_id": "EMP-000045",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-02-04 14:00:00",
+    "ended_at": "2026-02-04 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000036",
+    "store_id": "STORE-000006",
+    "employee_id": "EMP-000006",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-02-05 22:00:00",
+    "ended_at": "2026-02-06 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000037",
+    "store_id": "STORE-000007",
+    "employee_id": "EMP-000017",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-02-06 06:00:00",
+    "ended_at": "2026-02-06 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000038",
+    "store_id": "STORE-000008",
+    "employee_id": "EMP-000028",
+    "role_id": "ROLE-000007",
+    "started_at": "2026-02-07 14:00:00",
+    "ended_at": "2026-02-07 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000039",
+    "store_id": "STORE-000009",
+    "employee_id": "EMP-000029",
+    "role_id": "ROLE-000001",
+    "started_at": "2026-02-08 22:00:00",
+    "ended_at": "2026-02-09 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000040",
+    "store_id": "STORE-000010",
+    "employee_id": "EMP-000040",
+    "role_id": "ROLE-000005",
+    "started_at": "2026-02-09 06:00:00",
+    "ended_at": "2026-02-09 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000041",
+    "store_id": "STORE-000001",
+    "employee_id": "EMP-000001",
+    "role_id": "ROLE-000001",
+    "started_at": "2026-02-10 14:00:00",
+    "ended_at": "2026-02-10 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000042",
+    "store_id": "STORE-000002",
+    "employee_id": "EMP-000012",
+    "role_id": "ROLE-000005",
+    "started_at": "2026-02-11 22:00:00",
+    "ended_at": "2026-02-12 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000043",
+    "store_id": "STORE-000003",
+    "employee_id": "EMP-000023",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-02-12 06:00:00",
+    "ended_at": "2026-02-12 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000044",
+    "store_id": "STORE-000004",
+    "employee_id": "EMP-000034",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-02-13 14:00:00",
+    "ended_at": "2026-02-13 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000045",
+    "store_id": "STORE-000005",
+    "employee_id": "EMP-000045",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-02-14 22:00:00",
+    "ended_at": "2026-02-15 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000046",
+    "store_id": "STORE-000006",
+    "employee_id": "EMP-000006",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-02-15 06:00:00",
+    "ended_at": "2026-02-15 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000047",
+    "store_id": "STORE-000007",
+    "employee_id": "EMP-000017",
+    "role_id": "ROLE-000003",
+    "started_at": "2026-02-16 14:00:00",
+    "ended_at": "2026-02-16 22:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000048",
+    "store_id": "STORE-000008",
+    "employee_id": "EMP-000028",
+    "role_id": "ROLE-000007",
+    "started_at": "2026-02-17 22:00:00",
+    "ended_at": "2026-02-18 06:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000049",
+    "store_id": "STORE-000009",
+    "employee_id": "EMP-000009",
+    "role_id": "ROLE-000002",
+    "started_at": "2026-02-18 06:00:00",
+    "ended_at": "2026-02-18 14:00:00",
+    "status": "closed"
+  },
+  {
+    "shift_id": "SHF-2026-000050",
+    "store_id": "STORE-000010",
+    "employee_id": "EMP-000020",
+    "role_id": "ROLE-000006",
+    "started_at": "2026-02-19 14:00:00",
+    "ended_at": "2026-02-19 22:00:00",
+    "status": "closed"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "promo_id": "PRM-2026-000001",
+    "name": "Spring Flex Promo 001",
+    "promo_type": "bogo",
+    "start_on": "2026-01-14",
+    "end_on": "2026-01-28",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "name": "Spring Flex Promo 002",
+    "promo_type": "percent_off",
+    "start_on": "2026-01-17",
+    "end_on": "2026-01-31",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "name": "Spring Flex Promo 003",
+    "promo_type": "markdown",
+    "start_on": "2026-01-20",
+    "end_on": "2026-02-03",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "name": "Spring Flex Promo 004",
+    "promo_type": "bogo",
+    "start_on": "2026-01-23",
+    "end_on": "2026-02-06",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "name": "Spring Flex Promo 005",
+    "promo_type": "percent_off",
+    "start_on": "2026-01-26",
+    "end_on": "2026-02-09",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "name": "Spring Flex Promo 006",
+    "promo_type": "markdown",
+    "start_on": "2026-01-29",
+    "end_on": "2026-02-12",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "name": "Spring Flex Promo 007",
+    "promo_type": "bogo",
+    "start_on": "2026-02-01",
+    "end_on": "2026-02-15",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000008",
+    "name": "Spring Flex Promo 008",
+    "promo_type": "percent_off",
+    "start_on": "2026-02-04",
+    "end_on": "2026-02-18",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000009",
+    "name": "Spring Flex Promo 009",
+    "promo_type": "markdown",
+    "start_on": "2026-02-07",
+    "end_on": "2026-02-21",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "name": "Spring Flex Promo 010",
+    "promo_type": "bogo",
+    "start_on": "2026-02-10",
+    "end_on": "2026-02-24",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "name": "Spring Flex Promo 011",
+    "promo_type": "percent_off",
+    "start_on": "2026-02-13",
+    "end_on": "2026-02-27",
+    "status": "ended"
+  },
+  {
+    "promo_id": "PRM-2026-000012",
+    "name": "Spring Flex Promo 012",
+    "promo_type": "markdown",
+    "start_on": "2026-02-16",
+    "end_on": "2026-03-02",
+    "status": "ended"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "promo_id": "PRM-2026-000001",
+    "sku_id": "SKU-000002",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "sku_id": "SKU-000003",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "sku_id": "SKU-000004",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "sku_id": "SKU-000005",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "sku_id": "SKU-000003",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "sku_id": "SKU-000004",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "sku_id": "SKU-000005",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "sku_id": "SKU-000006",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "sku_id": "SKU-000004",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "sku_id": "SKU-000005",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "sku_id": "SKU-000006",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "sku_id": "SKU-000007",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "sku_id": "SKU-000005",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "sku_id": "SKU-000006",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "sku_id": "SKU-000007",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "sku_id": "SKU-000008",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "sku_id": "SKU-000006",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "sku_id": "SKU-000007",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "sku_id": "SKU-000008",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "sku_id": "SKU-000009",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "sku_id": "SKU-000007",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "sku_id": "SKU-000008",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "sku_id": "SKU-000009",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "sku_id": "SKU-000010",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "sku_id": "SKU-000008",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "sku_id": "SKU-000009",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "sku_id": "SKU-000010",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "sku_id": "SKU-000011",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000008",
+    "sku_id": "SKU-000009",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000008",
+    "sku_id": "SKU-000010",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000008",
+    "sku_id": "SKU-000011",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000008",
+    "sku_id": "SKU-000012",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000009",
+    "sku_id": "SKU-000010",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000009",
+    "sku_id": "SKU-000011",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000009",
+    "sku_id": "SKU-000012",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000009",
+    "sku_id": "SKU-000013",
+    "discount_pct": 15
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "sku_id": "SKU-000011",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "sku_id": "SKU-000012",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "sku_id": "SKU-000013",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "sku_id": "SKU-000014",
+    "discount_pct": 20
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "sku_id": "SKU-000012",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "sku_id": "SKU-000013",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "sku_id": "SKU-000014",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "sku_id": "SKU-000015",
+    "discount_pct": 25
+  },
+  {
+    "promo_id": "PRM-2026-000012",
+    "sku_id": "SKU-000013",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000012",
+    "sku_id": "SKU-000014",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000012",
+    "sku_id": "SKU-000015",
+    "discount_pct": 10
+  },
+  {
+    "promo_id": "PRM-2026-000012",
+    "sku_id": "SKU-000016",
+    "discount_pct": 10
+  }
+]

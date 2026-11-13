@@ -1,0 +1,8 @@
+role_id,role_name,can_adjust_inventory,can_approve_transfer,can_perform_count,can_process_return,effective_from,effective_to
+ROLE-000001,cashier,0,0,0,1,2025-01-01,
+ROLE-000002,stocker,1,0,1,0,2025-01-01,
+ROLE-000003,store_manager,1,1,1,1,2025-01-01,
+ROLE-000004,loss_prevention,1,0,1,0,2025-01-01,
+ROLE-000005,merchandiser,0,0,1,0,2025-01-01,
+ROLE-000006,warehouse_picker,0,1,0,0,2025-01-01,
+ROLE-000007,cycle_counter,0,0,1,0,2025-01-01,

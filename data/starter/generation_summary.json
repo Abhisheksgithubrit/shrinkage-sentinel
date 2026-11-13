@@ -1,0 +1,109 @@
+{
+  "seed": 20261022,
+  "scale": "starter",
+  "generated_at": "2026-11-13T09:32:02.261121Z",
+  "row_counts": {
+    "store": 10,
+    "sku": 80,
+    "employee_role": 7,
+    "employee": 48,
+    "store_sku_assortment": 280,
+    "shift": 900,
+    "promotion": 12,
+    "promotion_sku": 48,
+    "promotion_store": 57,
+    "inventory_movement": 13896,
+    "return_event": 180,
+    "cycle_count": 243,
+    "balance_event": 520,
+    "shrinkage_alert": 12,
+    "investigation": 11,
+    "investigation_alert": 11,
+    "ground_truth": 1721
+  },
+  "checksums": {
+    "store": {
+      "rows": 10,
+      "sha256": "ac45fc5347e46a868256b7e9b529e057f1dca231a254f8f3a7457a9b83444efa"
+    },
+    "sku": {
+      "rows": 80,
+      "sha256": "d8a17e7e4851453ecd2988eeb77df0d6dac8eae6537cdfde8ae115a63dbc8e64"
+    },
+    "employee_role": {
+      "rows": 7,
+      "sha256": "6642ce77b84f10642a306192a6e9fe723f75a153691bbf56c3226af0eb445146"
+    },
+    "employee": {
+      "rows": 48,
+      "sha256": "1ff9cea9630ea88b2b1a1e0f2d357a440bfbd2868ed82066d578ee1bbe431250"
+    },
+    "store_sku_assortment": {
+      "rows": 280,
+      "sha256": "43a18cd2735f231a323d662dc3f3f6211f523e2c756b30a8ad2c2575e967fc5c"
+    },
+    "shift": {
+      "rows": 900,
+      "sha256": "ab2a8dd2523c0a27f1655ea0f03994f18b748f086026d50c7daa959922e5f862"
+    },
+    "promotion": {
+      "rows": 12,
+      "sha256": "6921e2f62996b6c106e91bd79252c0435f05d495b7e85a0e33a9253e360e478b"
+    },
+    "promotion_sku": {
+      "rows": 48,
+      "sha256": "c0e509520b135bc8bf43914a0e76a15f2ef5a019e80f7247e6439ce9a53f719b"
+    },
+    "promotion_store": {
+      "rows": 57,
+      "sha256": "45d2397f39c72c9309b5f7fda6190036522b80503cacdfef10528ba449e01fcb"
+    },
+    "inventory_movement": {
+      "rows": 13896,
+      "sha256": "2af3e56147078492cbb7a1945724fa69141db6ded1679a5950d71f0332b1922c"
+    },
+    "return_event": {
+      "rows": 180,
+      "sha256": "762aadfbec0a05507af80d1f5a265fb6e57d1d0da2285a019b38ebad4a70ef55"
+    },
+    "cycle_count": {
+      "rows": 243,
+      "sha256": "f4c658c25d194141b158216190c4e2e7456ee5e39fc37f3966b9884294567f95"
+    },
+    "balance_event": {
+      "rows": 520,
+      "sha256": "966b4f3b80d383f72a79d87c0f01b82eff628f1b5ca0444ea72e3a215faa5a45"
+    },
+    "shrinkage_alert": {
+      "rows": 12,
+      "sha256": "df977f4898abe9b6b8323f035b6dd08016cf014fb215898bf674a7c80d7b7732"
+    },
+    "investigation": {
+      "rows": 11,
+      "sha256": "6701ae071b81adebf22ae63ca20f224d6cd5b3d8d655b6a6160b641f53529b78"
+    },
+    "investigation_alert": {
+      "rows": 11,
+      "sha256": "fdec6f8085637b55cfa057f3dd0cd6efd48115b979d16a0ee14c43f632eda88c"
+    },
+    "ground_truth": {
+      "rows": 1721,
+      "sha256": "acdca5d9d37127b82d275941d7e051a67876a287833ab0be98f0082c49e09e8e",
+      "note": "Held out from model features / API feature endpoints."
+    }
+  },
+  "id_conventions": {
+    "store": "STORE-000001",
+    "sku": "SKU-000001",
+    "movement": "MOV-2026-00000001",
+    "cycle_count": "CNT-2026-000001",
+    "alert": "SHR-2026-000001",
+    "investigation": "INV-2026-000001"
+  },
+  "provenance": {
+    "external_data": "none",
+    "license": "synthetic-original",
+    "retrieval_date": null,
+    "notes": "All entities are fully synthetic. No personal data."
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "investigation_id": "INV-2026-000001",
+    "alert_id": "SHR-2026-000001"
+  },
+  {
+    "investigation_id": "INV-2026-000002",
+    "alert_id": "SHR-2026-000002"
+  },
+  {
+    "investigation_id": "INV-2026-000003",
+    "alert_id": "SHR-2026-000003"
+  },
+  {
+    "investigation_id": "INV-2026-000004",
+    "alert_id": "SHR-2026-000005"
+  },
+  {
+    "investigation_id": "INV-2026-000005",
+    "alert_id": "SHR-2026-000006"
+  },
+  {
+    "investigation_id": "INV-2026-000006",
+    "alert_id": "SHR-2026-000007"
+  },
+  {
+    "investigation_id": "INV-2026-000007",
+    "alert_id": "SHR-2026-000008"
+  },
+  {
+    "investigation_id": "INV-2026-000008",
+    "alert_id": "SHR-2026-000009"
+  },
+  {
+    "investigation_id": "INV-2026-000009",
+    "alert_id": "SHR-2026-000010"
+  },
+  {
+    "investigation_id": "INV-2026-000010",
+    "alert_id": "SHR-2026-000011"
+  },
+  {
+    "investigation_id": "INV-2026-000011",
+    "alert_id": "SHR-2026-000012"
+  }
+]

@@ -1,0 +1,13 @@
+promo_id,name,promo_type,start_on,end_on,status
+PRM-2026-000001,Spring Flex Promo 001,bogo,2026-01-14,2026-01-28,ended
+PRM-2026-000002,Spring Flex Promo 002,percent_off,2026-01-17,2026-01-31,ended
+PRM-2026-000003,Spring Flex Promo 003,markdown,2026-01-20,2026-02-03,ended
+PRM-2026-000004,Spring Flex Promo 004,bogo,2026-01-23,2026-02-06,ended
+PRM-2026-000005,Spring Flex Promo 005,percent_off,2026-01-26,2026-02-09,ended
+PRM-2026-000006,Spring Flex Promo 006,markdown,2026-01-29,2026-02-12,ended
+PRM-2026-000007,Spring Flex Promo 007,bogo,2026-02-01,2026-02-15,ended
+PRM-2026-000008,Spring Flex Promo 008,percent_off,2026-02-04,2026-02-18,ended
+PRM-2026-000009,Spring Flex Promo 009,markdown,2026-02-07,2026-02-21,ended
+PRM-2026-000010,Spring Flex Promo 010,bogo,2026-02-10,2026-02-24,ended
+PRM-2026-000011,Spring Flex Promo 011,percent_off,2026-02-13,2026-02-27,ended
+PRM-2026-000012,Spring Flex Promo 012,markdown,2026-02-16,2026-03-02,ended

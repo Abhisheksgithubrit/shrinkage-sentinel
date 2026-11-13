@@ -1,0 +1,81 @@
+sku_id,upc,name,category,subcategory,brand,unit_cost,unit_retail,uom,perishable,high_theft_risk,status,introduced_on
+SKU-000001,700000000001,Grocery Beverages Item 0001,Grocery,Beverages,Cedar&Co,1.17,1.64,EA,0,0,active,2025-12-31
+SKU-000002,700000000002,Health First Aid Item 0002,Health,First Aid,Voltara,1.54,2.39,EA,0,0,active,2025-12-30
+SKU-000003,700000000003,Electronics Accessories Item 0003,Electronics,Accessories,Harbor Home,1.91,3.25,EA,0,1,active,2025-12-29
+SKU-000004,700000000004,Apparel Seasonal Item 0004,Apparel,Seasonal,Lumen,2.28,4.22,EA,0,0,active,2025-12-28
+SKU-000005,700000000005,Home Decor Item 0005,Home,Decor,Peakform,2.65,3.31,EA,0,0,active,2025-12-27
+SKU-000006,700000000006,Beauty Skin Item 0006,Beauty,Skin,Nimbus,3.02,4.23,EA,0,1,active,2025-12-26
+SKU-000007,700000000007,Automotive Interior Item 0007,Automotive,Interior,Northline,3.39,5.25,EA,0,0,active,2025-12-25
+SKU-000008,700000000008,Toys Games Item 0008,Toys,Games,Cedar&Co,3.76,6.39,EA,0,0,active,2025-12-24
+SKU-000009,700000000009,Grocery Beverages Item 0009,Grocery,Beverages,Voltara,4.13,7.64,EA,0,0,active,2025-12-23
+SKU-000010,700000000010,Health Vitamins Item 0010,Health,Vitamins,Harbor Home,4.5,5.62,EA,0,0,active,2025-12-22
+SKU-000011,700000000011,Electronics Charging Item 0011,Electronics,Charging,Lumen,4.87,6.82,EA,0,0,active,2025-12-21
+SKU-000012,700000000012,Apparel Basics Item 0012,Apparel,Basics,Peakform,5.24,8.12,EA,0,0,active,2025-12-20
+SKU-000013,700000000013,Home Storage Item 0013,Home,Storage,Nimbus,5.61,9.54,EA,0,0,active,2025-12-19
+SKU-000014,700000000014,Beauty Fragrance Item 0014,Beauty,Fragrance,Northline,5.98,11.06,EA,0,0,active,2025-12-18
+SKU-000015,700000000015,Automotive Care Item 0015,Automotive,Care,Cedar&Co,6.35,7.94,EA,0,0,active,2025-12-17
+SKU-000016,700000000016,Toys Outdoor Item 0016,Toys,Outdoor,Voltara,6.72,9.41,EA,0,0,active,2025-12-16
+SKU-000017,700000000017,Grocery Beverages Item 0017,Grocery,Beverages,Harbor Home,7.09,10.99,EA,0,0,active,2025-12-15
+SKU-000018,700000000018,Health OTC Item 0018,Health,OTC,Lumen,7.46,12.68,EA,0,1,active,2025-12-14
+SKU-000019,700000000019,Electronics Audio Item 0019,Electronics,Audio,Peakform,7.83,14.49,EA,0,0,active,2025-12-13
+SKU-000020,700000000020,Apparel Footwear Item 0020,Apparel,Footwear,Nimbus,8.2,10.25,EA,0,0,active,2025-12-12
+SKU-000021,700000000021,Home Kitchen Item 0021,Home,Kitchen,Northline,8.57,12.0,EA,0,0,active,2025-12-11
+SKU-000022,700000000022,Beauty Hair Item 0022,Beauty,Hair,Cedar&Co,8.94,13.86,EA,0,0,active,2025-12-10
+SKU-000023,700000000023,Automotive Tools Item 0023,Automotive,Tools,Voltara,9.31,15.83,EA,0,0,active,2025-12-09
+SKU-000024,700000000024,Toys Building Item 0024,Toys,Building,Harbor Home,9.68,17.91,EA,0,0,active,2025-12-08
+SKU-000025,700000000025,Grocery Beverages Item 0025,Grocery,Beverages,Lumen,10.05,12.56,EA,0,0,active,2025-12-07
+SKU-000026,700000000026,Health First Aid Item 0026,Health,First Aid,Peakform,10.42,14.59,EA,0,0,active,2025-12-06
+SKU-000027,700000000027,Electronics Accessories Item 0027,Electronics,Accessories,Nimbus,10.79,16.72,EA,0,1,active,2025-12-05
+SKU-000028,700000000028,Apparel Seasonal Item 0028,Apparel,Seasonal,Northline,11.16,18.97,EA,0,0,active,2025-12-04
+SKU-000029,700000000029,Home Decor Item 0029,Home,Decor,Cedar&Co,11.53,21.33,EA,0,0,active,2025-12-03
+SKU-000030,700000000030,Beauty Skin Item 0030,Beauty,Skin,Voltara,11.9,14.88,EA,0,1,active,2025-12-02
+SKU-000031,700000000031,Automotive Interior Item 0031,Automotive,Interior,Harbor Home,12.27,17.18,EA,0,0,active,2025-12-01
+SKU-000032,700000000032,Toys Games Item 0032,Toys,Games,Lumen,12.64,19.59,EA,0,0,active,2025-11-30
+SKU-000033,700000000033,Grocery Beverages Item 0033,Grocery,Beverages,Peakform,13.01,22.12,EA,0,0,active,2025-11-29
+SKU-000034,700000000034,Health Vitamins Item 0034,Health,Vitamins,Nimbus,13.38,24.75,EA,0,0,active,2025-11-28
+SKU-000035,700000000035,Electronics Charging Item 0035,Electronics,Charging,Northline,13.75,17.19,EA,0,0,active,2025-11-27
+SKU-000036,700000000036,Apparel Basics Item 0036,Apparel,Basics,Cedar&Co,14.12,19.77,EA,0,0,active,2025-11-26
+SKU-000037,700000000037,Home Storage Item 0037,Home,Storage,Voltara,14.49,22.46,EA,0,0,active,2025-11-25
+SKU-000038,700000000038,Beauty Fragrance Item 0038,Beauty,Fragrance,Harbor Home,14.86,25.26,EA,0,0,active,2025-11-24
+SKU-000039,700000000039,Automotive Care Item 0039,Automotive,Care,Lumen,15.23,28.18,EA,0,0,active,2025-11-23
+SKU-000040,700000000040,Toys Outdoor Item 0040,Toys,Outdoor,Peakform,15.6,19.5,EA,0,0,active,2025-11-22
+SKU-000041,700000000041,Grocery Beverages Item 0041,Grocery,Beverages,Nimbus,15.97,22.36,EA,0,0,seasonal,2025-11-21
+SKU-000042,700000000042,Health OTC Item 0042,Health,OTC,Northline,16.34,25.33,EA,0,1,active,2025-11-20
+SKU-000043,700000000043,Electronics Audio Item 0043,Electronics,Audio,Cedar&Co,16.71,28.41,EA,0,0,active,2025-11-19
+SKU-000044,700000000044,Apparel Footwear Item 0044,Apparel,Footwear,Voltara,17.08,31.6,EA,0,0,active,2025-11-18
+SKU-000045,700000000045,Home Kitchen Item 0045,Home,Kitchen,Harbor Home,17.45,21.81,EA,0,0,active,2025-11-17
+SKU-000046,700000000046,Beauty Hair Item 0046,Beauty,Hair,Lumen,17.82,24.95,EA,0,0,active,2025-11-16
+SKU-000047,700000000047,Automotive Tools Item 0047,Automotive,Tools,Peakform,18.19,28.19,EA,0,0,active,2025-11-15
+SKU-000048,700000000048,Toys Building Item 0048,Toys,Building,Nimbus,18.56,31.55,EA,0,0,active,2025-11-14
+SKU-000049,700000000049,Grocery Beverages Item 0049,Grocery,Beverages,Northline,18.93,35.02,EA,0,0,active,2025-11-13
+SKU-000050,700000000050,Health First Aid Item 0050,Health,First Aid,Cedar&Co,19.3,24.12,EA,0,0,active,2025-11-12
+SKU-000051,700000000051,Electronics Accessories Item 0051,Electronics,Accessories,Voltara,19.67,27.54,EA,0,1,active,2025-11-11
+SKU-000052,700000000052,Apparel Seasonal Item 0052,Apparel,Seasonal,Harbor Home,20.04,31.06,EA,0,0,active,2025-11-10
+SKU-000053,700000000053,Home Decor Item 0053,Home,Decor,Lumen,20.41,34.7,EA,0,0,active,2025-11-09
+SKU-000054,700000000054,Beauty Skin Item 0054,Beauty,Skin,Peakform,20.78,38.44,EA,0,1,active,2025-11-08
+SKU-000055,700000000055,Automotive Interior Item 0055,Automotive,Interior,Nimbus,21.15,26.44,EA,0,0,active,2025-11-07
+SKU-000056,700000000056,Toys Games Item 0056,Toys,Games,Northline,21.52,30.13,EA,0,0,active,2025-11-06
+SKU-000057,700000000057,Grocery Beverages Item 0057,Grocery,Beverages,Cedar&Co,21.89,33.93,EA,0,0,active,2025-11-05
+SKU-000058,700000000058,Health Vitamins Item 0058,Health,Vitamins,Voltara,22.26,37.84,EA,0,0,active,2025-11-04
+SKU-000059,700000000059,Electronics Charging Item 0059,Electronics,Charging,Harbor Home,22.63,41.87,EA,0,0,active,2025-11-03
+SKU-000060,700000000060,Apparel Basics Item 0060,Apparel,Basics,Lumen,23.0,28.75,EA,0,0,active,2025-11-02
+SKU-000061,700000000061,Home Storage Item 0061,Home,Storage,Peakform,23.37,32.72,EA,0,0,active,2025-11-01
+SKU-000062,700000000062,Beauty Fragrance Item 0062,Beauty,Fragrance,Nimbus,23.74,36.8,EA,0,0,active,2025-10-31
+SKU-000063,700000000063,Automotive Care Item 0063,Automotive,Care,Northline,24.11,40.99,EA,0,0,active,2025-10-30
+SKU-000064,700000000064,Toys Outdoor Item 0064,Toys,Outdoor,Cedar&Co,24.48,45.29,EA,0,0,active,2025-10-29
+SKU-000065,700000000065,Grocery Beverages Item 0065,Grocery,Beverages,Voltara,24.85,31.06,EA,0,0,active,2025-10-28
+SKU-000066,700000000066,Health OTC Item 0066,Health,OTC,Harbor Home,25.22,35.31,EA,0,1,active,2025-10-27
+SKU-000067,700000000067,Electronics Audio Item 0067,Electronics,Audio,Lumen,25.59,39.66,EA,0,0,active,2025-10-26
+SKU-000068,700000000068,Apparel Footwear Item 0068,Apparel,Footwear,Peakform,25.96,44.13,EA,0,0,active,2025-10-25
+SKU-000069,700000000069,Home Kitchen Item 0069,Home,Kitchen,Nimbus,26.33,48.71,EA,0,0,active,2025-10-24
+SKU-000070,700000000070,Beauty Hair Item 0070,Beauty,Hair,Northline,26.7,33.38,EA,0,0,active,2025-10-23
+SKU-000071,700000000071,Automotive Tools Item 0071,Automotive,Tools,Cedar&Co,27.07,37.9,EA,0,0,active,2025-10-22
+SKU-000072,700000000072,Toys Building Item 0072,Toys,Building,Voltara,27.44,42.53,EA,0,0,active,2025-10-21
+SKU-000073,700000000073,Grocery Beverages Item 0073,Grocery,Beverages,Harbor Home,27.81,47.28,EA,0,0,active,2025-10-20
+SKU-000074,700000000074,Health First Aid Item 0074,Health,First Aid,Lumen,28.18,52.13,EA,0,0,active,2025-10-19
+SKU-000075,700000000075,Electronics Accessories Item 0075,Electronics,Accessories,Peakform,28.55,35.69,EA,0,1,active,2025-10-18
+SKU-000076,700000000076,Apparel Seasonal Item 0076,Apparel,Seasonal,Nimbus,28.92,40.49,EA,0,0,active,2025-10-17
+SKU-000077,700000000077,Home Decor Item 0077,Home,Decor,Northline,29.29,45.4,EA,0,0,active,2025-10-16
+SKU-000078,700000000078,Beauty Skin Item 0078,Beauty,Skin,Cedar&Co,29.66,50.42,EA,0,1,active,2025-10-15
+SKU-000079,700000000079,Automotive Interior Item 0079,Automotive,Interior,Voltara,30.03,55.56,EA,0,0,active,2025-10-14
+SKU-000080,700000000080,Toys Games Item 0080,Toys,Games,Harbor Home,30.4,38.0,EA,0,0,active,2025-10-13

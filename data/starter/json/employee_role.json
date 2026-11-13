@@ -1,0 +1,72 @@
+[
+  {
+    "role_id": "ROLE-000001",
+    "role_name": "cashier",
+    "can_adjust_inventory": 0,
+    "can_approve_transfer": 0,
+    "can_perform_count": 0,
+    "can_process_return": 1,
+    "effective_from": "2025-01-01",
+    "effective_to": null
+  },
+  {
+    "role_id": "ROLE-000002",
+    "role_name": "stocker",
+    "can_adjust_inventory": 1,
+    "can_approve_transfer": 0,
+    "can_perform_count": 1,
+    "can_process_return": 0,
+    "effective_from": "2025-01-01",
+    "effective_to": null
+  },
+  {
+    "role_id": "ROLE-000003",
+    "role_name": "store_manager",
+    "can_adjust_inventory": 1,
+    "can_approve_transfer": 1,
+    "can_perform_count": 1,
+    "can_process_return": 1,
+    "effective_from": "2025-01-01",
+    "effective_to": null
+  },
+  {
+    "role_id": "ROLE-000004",
+    "role_name": "loss_prevention",
+    "can_adjust_inventory": 1,
+    "can_approve_transfer": 0,
+    "can_perform_count": 1,
+    "can_process_return": 0,
+    "effective_from": "2025-01-01",
+    "effective_to": null
+  },
+  {
+    "role_id": "ROLE-000005",
+    "role_name": "merchandiser",
+    "can_adjust_inventory": 0,
+    "can_approve_transfer": 0,
+    "can_perform_count": 1,
+    "can_process_return": 0,
+    "effective_from": "2025-01-01",
+    "effective_to": null
+  },
+  {
+    "role_id": "ROLE-000006",
+    "role_name": "warehouse_picker",
+    "can_adjust_inventory": 0,
+    "can_approve_transfer": 1,
+    "can_perform_count": 0,
+    "can_process_return": 0,
+    "effective_from": "2025-01-01",
+    "effective_to": null
+  },
+  {
+    "role_id": "ROLE-000007",
+    "role_name": "cycle_counter",
+    "can_adjust_inventory": 0,
+    "can_approve_transfer": 0,
+    "can_perform_count": 1,
+    "can_process_return": 0,
+    "effective_from": "2025-01-01",
+    "effective_to": null
+  }
+]

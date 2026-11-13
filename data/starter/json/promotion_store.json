@@ -1,0 +1,202 @@
+[
+  {
+    "promo_id": "PRM-2026-000001",
+    "store_id": "STORE-000002"
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "store_id": "STORE-000003"
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "store_id": "STORE-000004"
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "store_id": "STORE-000005"
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "store_id": "STORE-000006"
+  },
+  {
+    "promo_id": "PRM-2026-000001",
+    "store_id": "STORE-000007"
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "store_id": "STORE-000003"
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "store_id": "STORE-000004"
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "store_id": "STORE-000005"
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "store_id": "STORE-000006"
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "store_id": "STORE-000007"
+  },
+  {
+    "promo_id": "PRM-2026-000002",
+    "store_id": "STORE-000008"
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "store_id": "STORE-000004"
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "store_id": "STORE-000005"
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "store_id": "STORE-000006"
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "store_id": "STORE-000007"
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "store_id": "STORE-000008"
+  },
+  {
+    "promo_id": "PRM-2026-000003",
+    "store_id": "STORE-000009"
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "store_id": "STORE-000005"
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "store_id": "STORE-000006"
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "store_id": "STORE-000007"
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "store_id": "STORE-000008"
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "store_id": "STORE-000009"
+  },
+  {
+    "promo_id": "PRM-2026-000004",
+    "store_id": "STORE-000010"
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "store_id": "STORE-000006"
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "store_id": "STORE-000007"
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "store_id": "STORE-000008"
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "store_id": "STORE-000009"
+  },
+  {
+    "promo_id": "PRM-2026-000005",
+    "store_id": "STORE-000010"
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "store_id": "STORE-000007"
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "store_id": "STORE-000008"
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "store_id": "STORE-000009"
+  },
+  {
+    "promo_id": "PRM-2026-000006",
+    "store_id": "STORE-000010"
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "store_id": "STORE-000008"
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "store_id": "STORE-000009"
+  },
+  {
+    "promo_id": "PRM-2026-000007",
+    "store_id": "STORE-000010"
+  },
+  {
+    "promo_id": "PRM-2026-000008",
+    "store_id": "STORE-000009"
+  },
+  {
+    "promo_id": "PRM-2026-000008",
+    "store_id": "STORE-000010"
+  },
+  {
+    "promo_id": "PRM-2026-000009",
+    "store_id": "STORE-000010"
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "store_id": "STORE-000001"
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "store_id": "STORE-000002"
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "store_id": "STORE-000003"
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "store_id": "STORE-000004"
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "store_id": "STORE-000005"
+  },
+  {
+    "promo_id": "PRM-2026-000010",
+    "store_id": "STORE-000006"
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "store_id": "STORE-000002"
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "store_id": "STORE-000003"
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "store_id": "STORE-000004"
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "store_id": "STORE-000005"
+  },
+  {
+    "promo_id": "PRM-2026-000011",
+    "store_id": "STORE-000006"
+  }
+]
